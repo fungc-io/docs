@@ -101,6 +101,7 @@
 
 ## Integration
 
+* [Client ID Metadata Document (CIMD)](integration/client-id-metadata-document.md)
 * [Dynamic Client Registration (DCR)](integration/dynamic-client-registration.md)
 * [Add custom fields to a JWT Access Token or ID Token](integration/add-custom-fields-to-a-jwt-access-token.md)
 * [User Profiles](admin/user-profiles/README.md)
